@@ -1,53 +1,53 @@
 {
     "COMBAT": {
-        "Begin": "Begin Encounter",
+        "Begin": "Começar Encontro",
         "CombatantNotInScene": "The participant {name} is not present in your currently viewed scene.",
         "CombatantRemove": "Remove Participant",
         "CombatantStatus": "Participant Status",
-        "CombatantUpdate": "Update Participant",
-        "End": "End Encounter",
+        "CombatantUpdate": "Atualizar Participante",
+        "End": "Finalizar Encontro",
         "EndConfirmation": "End this encounter and empty the turn tracker?",
-        "EndTitle": "End Encounter?",
+        "EndTitle": "Finalizar Encontro?",
         "NoneActive": "There is no active Encounter in your currently viewed Scene.",
-        "NoneRemaining": "There are no participants remaining in this Encounter that are not defeated.",
+        "NoneRemaining": "Não há participantes restantes neste Encontro que não foram derrotados.",
         "PingCombatant": "Ping Token",
-        "PingInvisibleToken": "You can't see this participant's token.",
+        "PingInvisibleToken": "Você não pode ver o token deste participante.",
         "ResourceHint": "Choose an attribute to track for each participant.",
         "Settings": "Encounter Tracker Settings",
         "SidebarTitle": "Encounter Tracker",
         "SkipDefeatedHint": "Automatically bypass participants marked as defeated?",
-        "TargetedBy": "Targeted by {list}",
-        "ToggleTargeting": "Toggle Targeting",
-        "UnknownCombatant": "Unknown Participant"
+        "TargetedBy": "Sendo alvo de {list}",
+        "ToggleTargeting": "Alternar Alvo",
+        "UnknownCombatant": "Participante Desconhecido"
     },
     "COMPENDIUM": {
         "MigrationStatus": "Migration Status"
     },
     "CONTROLS": {
-        "AdjustSceneDarkness": "Adjust Scene Darkness",
-        "EffectPanel": "Effects Panel",
-        "WorldClock": "World Clock"
+        "AdjustSceneDarkness": "Ajustar a Escuridão da Cena",
+        "EffectPanel": "Painel de Efeitos",
+        "WorldClock": "Relógio Mundial"
     },
     "DOCUMENT": {
-        "Combat": "Encounter",
-        "Combats": "Encounters"
+        "Combat": "Encontro",
+        "Combats": "Encontros"
     },
     "PF2E": {
         "AbilityBoost": "Attribute Boost",
         "AbilityBoostLevels": "Attribute Boost Levels",
-        "AbilityCha": "Charisma",
+        "AbilityCha": "Carisma",
         "AbilityCheck": {
-            "cha": "Charisma Check",
-            "con": "Constitution Check",
-            "dex": "Dexterity Check",
-            "int": "Intelligence Check",
-            "str": "Strength Check",
-            "wis": "Wisdom Check"
+            "cha": "Rolagem de Carisma",
+            "con": "Rolagem de Constituição",
+            "dex": "Rolagem de Destreza",
+            "int": "Rolagem de Inteligência",
+            "str": "Rolagem de Força",
+            "wis": "Rolagem de Sabedoria"
         },
-        "AbilityCon": "Constitution",
-        "AbilityDex": "Dexterity",
+        "AbilityCon": "Constituição",
+        "AbilityDex": "Destreza",
         "AbilityFlaw": "Flaw",
-        "AbilityFree": "Free",
+        "AbilityFree": "Gratuito",
         "AbilityId": {
             "cha": "Cha",
             "con": "Con",
@@ -56,11 +56,11 @@
             "str": "Str",
             "wis": "Wis"
         },
-        "AbilityInt": "Intelligence",
-        "AbilityModifierLabel": "Attribute Modifier",
-        "AbilityStr": "Strength",
-        "AbilityTitle": "Attribute",
-        "AbilityWis": "Wisdom",
+        "AbilityInt": "Inteligência",
+        "AbilityModifierLabel": "Modificador de Atributo",
+        "AbilityStr": "Força",
+        "AbilityTitle": "Atributo",
+        "AbilityWis": "Sabedoria",
         "AccessoryPropertyRuneCalled": "Called",
         "AccessoryPropertyRuneDragonsBreath": "Dragon's Breath",
         "AccessoryPropertyRuneGreaterPaired": "Greater Paired",
@@ -99,12 +99,12 @@
             }
         },
         "ActionActionTypeLabel": "Action Type",
-        "ActionActionsLabel": "Actions",
+        "ActionActionsLabel": "Ações",
         "ActionBrowserSearchHint": "You can search for name or custom attributes. Possible searchable attributes are:<br> source, spellType, level, materials, target, range, time, duration, damage, damageType, save, concentration, ritual, ability and classes. <br>Example: 'fire, damage:d6' to show all spells that have fire in their name and a d6 in the damage",
         "ActionDeathNoteLabel": "Death Note",
-        "ActionNumber1": "One",
-        "ActionNumber2": "Two",
-        "ActionNumber3": "Three",
+        "ActionNumber1": "Um",
+        "ActionNumber2": "Dois",
+        "ActionNumber3": "Três",
         "ActionSkillRequirementLabel": "Requirement",
         "ActionTypeAction": "Action",
         "ActionTypeFree": "Free Action",
