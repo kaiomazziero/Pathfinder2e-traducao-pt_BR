@@ -1,3 +1,5 @@
 files:
   - source: /lang/eng/en.json
     translation: /lang/pt_br/%locale_with_underscore%.%file_extension%
+  - source: /lang/eng/action-en.json
+    translation: /lang/pt_br/%locale_with_underscore%.%file_extension%
