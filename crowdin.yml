@@ -3,3 +3,5 @@ files:
     translation: /lang/pt_br/%locale_with_underscore%.%file_extension%
   - source: /lang/eng/action-en.json
     translation: /lang/pt_br/action-%locale_with_underscore%.%file_extension%
+  - source: /lang/eng/kingmaker-en.json
+    translation: /lang/pt_br/kingmaker-%locale_with_underscore%.%file_extension%
